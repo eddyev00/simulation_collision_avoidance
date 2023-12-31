@@ -21,7 +21,7 @@ The UAV identifies an individual and comes to a halt. If the subject remains sta
 
 # Instructions 
 1. Follow the tutorial at https://www.youtube.com/@IntelligentQuads/playlists for the installation steps of Ardupilot and the neccesary simulation in Gazebo.
-2. Insert the files into /home/user/drone_ws/src/iq_gnc/scripts.
-3. "og_drone_path_control.py" includes the emergency maneuver, i.e., when the drone flies over a person.
-4. "modified_drone_control.py" includes the emergency maneuver and adds a second feature, allowing the drone to continue the previous path if the person moves away within a specified timeframe.
+2. Insert the files in the "drone_control" into /home/user/drone_ws/src/iq_gnc/scripts.
+3. "og_drone_path_control.py" includes the emergency maneuver, i.e., when the drone flies over a person. Run "og_yolo_node.py" as well.
+4. "modified_drone_control.py" includes the emergency maneuver and adds a second feature, allowing the drone to continue the previous path if the person moves away within a specified timeframe. Run "modified_yolo.py" as well.
 
