@@ -4,7 +4,7 @@
     <img width="500" src="https://github.com/eddyev00/simulation_collision_avoidance/assets/155014106/d9c6035c-3f43-4cb9-946f-a744522bd573" alt="Material Bread logo">
 </p>
 
-Explore a Gazebo simulation featuring drone people avoidance using ArduPilot, ROS (Noetic), and YOLOv8. Witness the integration of advanced algorithms and computer vision as the drone navigates dynamically through people in a simulated environment. The control algorithm presents two possible course of actions after the drone has detected and estimated that a person is too close to it:
+Explore a Gazebo simulation featuring drone people avoidance using ArduPilot, ROS (Noetic), MiDaS and YOLOv8. Witness the integration of advanced algorithms and computer vision as the drone navigates dynamically through people in a simulated environment. After the drone has detected and estimated that a person is too close to it, the control algorithm presents two possible courses of action:
 
 1. **Drone stops and the individual moves away**
 ![drone_person_moves](https://github.com/eddyev00/simulation_collision_avoidance/assets/155014106/a992617a-187b-40eb-8d5c-d5b3649b2e8c )
