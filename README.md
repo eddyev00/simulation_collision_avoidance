@@ -20,7 +20,8 @@ The UAV identifies an individual and comes to a halt. If the subject remains sta
 [![Gazebo Simulation Drone People Avoidance](http://img.youtube.com/vi/eclh6aU6Ip8/0.jpg)](https://youtu.be/eclh6aU6Ip8?si=TmuFmULtceWwwfze)
 
 # Instructions 
-1. Follow the tutorial in https://www.youtube.com/@IntelligentQuads/playlists for the installation steps of Ardupilot and the neccesarry simulation in Gazebo.
-2. Insert the files inside /home/user/drone_ws/src/iq_gnc/scripts
-3. "og_drone_path_control.py" contains the emergency manouver i.e. when the drone flies over the person.
-4. "modified_drone_control.py" contains the emergency manouver and adds a second feature which allows the drone to continue the previous path if the person moves away within a specified timeframe.
+1. Follow the tutorial at https://www.youtube.com/@IntelligentQuads/playlists for the installation steps of Ardupilot and the neccesary simulation in Gazebo.
+2. Insert the files into /home/user/drone_ws/src/iq_gnc/scripts.
+3. "og_drone_path_control.py" includes the emergency maneuver, i.e., when the drone flies over a person.
+4. "modified_drone_control.py" includes the emergency maneuver and adds a second feature, allowing the drone to continue the previous path if the person moves away within a specified timeframe.
+
