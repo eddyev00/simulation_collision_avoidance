@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/eddye/drone_ws/devel/.private/ipcamera_driver/setup.sh

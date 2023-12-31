@@ -1,0 +1,3 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/ipcamera_driver.dir/src/ipcamera_driver.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/eddye/drone_ws/devel/.private/ipcamera_driver/lib/ipcamera_driver/ipcamera_driver[0m
+[100%] Built target ipcamera_driver

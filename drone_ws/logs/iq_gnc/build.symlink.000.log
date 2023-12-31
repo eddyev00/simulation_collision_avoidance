@@ -1,0 +1,6 @@
+Symlinking /home/eddye/drone_ws/devel/share/iq_gnc/cmake/iq_gncConfig.cmake
+Symlinking /home/eddye/drone_ws/devel/share/iq_gnc/cmake/iq_gncConfig-version.cmake
+Symlinking /home/eddye/drone_ws/devel/lib/python3/dist-packages/iq_gnc/__init__.py
+Symlinking /home/eddye/drone_ws/devel/lib/pkgconfig/iq_gnc.pc
+Symlinking /home/eddye/drone_ws/devel/lib/iq_gnc/square
+Symlinking /home/eddye/drone_ws/devel/lib/iq_gnc/gnc_example
